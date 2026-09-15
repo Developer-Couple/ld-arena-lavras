@@ -9,7 +9,7 @@ import { chromium } from 'playwright';
 const ROOT = fileURLToPath(new URL('..', import.meta.url));
 const OUT_DIR = join(ROOT, '.screenshots');
 const PORT = 8935;
-const HTML_FILE = 'beach-tennis-template.dc.html';
+const HTML_FILE = 'index.html';
 
 const MIME = {
   '.html': 'text/html', '.js': 'text/javascript', '.css': 'text/css',

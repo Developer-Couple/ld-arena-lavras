@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "packageManager": "pnpm@11.22.0",
   "scripts": {
+    "dev": "node scripts/dev-server.mjs",
     "responsive-check": "node scripts/responsive-check.mjs"
   },
   "devDependencies": {

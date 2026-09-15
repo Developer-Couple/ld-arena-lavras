@@ -7,7 +7,7 @@ completa como referência).
 
 Já vem pronto:
 - Layout completo (hero, sobre, números animados, serviços, equipe,
-  depoimentos opcionais, mapa, contato) — `beach-tennis-template.dc.html`.
+  depoimentos opcionais, mapa, contato) — `index.html`.
 - Responsivo de verdade (menu hambúrguer no mobile, cards que empilham,
   card de localização no mesmo padrão do desktop) — testado 320px–1440px.
 - Embed real do Google Maps (só trocar a query do endereço).
@@ -23,7 +23,7 @@ Tudo que precisa trocar está marcado com `[placeholder]` ou é óbvio pelo
 contexto:
 
 1. **Cores** — bloco de `--color-*` no `<div>` logo após `</helmet>`, no
-   `beach-tennis-template.dc.html`. É só trocar os hex; o resto do site usa
+   `index.html`. É só trocar os hex; o resto do site usa
    `var(--color-*)` em tudo.
 2. **Logo** — hoje é um SVG placeholder (círculo + check) inline em 4
    lugares (nav, hero, card de localização, footer). Troque pelo `<img>`
