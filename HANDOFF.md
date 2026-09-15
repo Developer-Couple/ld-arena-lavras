@@ -1,11 +1,11 @@
-# Handoff — Arena Lavras
+# Handoff — Arena Beach Lavras
 
 Branch: `client/arena-beach-lavras` (worktree criado a partir de `main` do
 template `beach-tennis-landing-page`).
 
 ## Cliente
 
-- Nome: Arena Lavras
+- Nome: Arena Beach Lavras
 - Endereço: Rua Lucas Costa, 60, Portal da Mata, Lavras - MG
 - Instagram: `@arena_lavras` (fonte das fotos)
 - Celular/WhatsApp: (35) 99891-5177
